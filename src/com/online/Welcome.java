@@ -18,6 +18,7 @@ public class Welcome {
 	String msg="Welcome to Nepal";
 	return new ModelAndView("/hello.jsp","message",msg);
 		
+	
 	}
-
+	
 }
